@@ -1,0 +1,13 @@
+FFmpeg 설치 및 환경변수 등록 안내
+-> .m4a 파일을 .wav로 변환하기 위해 필요한 프로그램이다
+
+1. FFmpeg 다운로드
+  - [FFmpeg 공식 웹사이트](https://ffmpeg.org/download.html)에 접속
+  - 운영체제에 맞는 FFmpeg .zip 파일을 다운로드
+  - 다운로드한 파일을 적절한 위치(예: C:\ffmpeg)에 압축 해제
+
+2. 환경변수 등록
+  - 디렉터리 경로(C:\ffmpeg\bin)를 복사
+  - 환경 변수 path 설정
+
+만일 설치 후에도 오류가 발생한다면, IDE 종료 후 재시작하기 바란다.
